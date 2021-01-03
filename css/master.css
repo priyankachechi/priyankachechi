@@ -1,0 +1,77 @@
+/* Cascading stylesheet for the website */
+
+a {
+color: beige;/* set the text color to blue here */
+text-declaration: none; /* this means we do wannt hyperlinks to be underlined*/
+
+}
+
+a:hover {
+color: white;/* set the text color to red here */
+  text-declaration: none;
+}
+
+body{
+background-color: white;/*set the background color here */
+color: 	#DCDCDC;/* set the text color to black here */
+font-family: Arial,Helvetica,sans-serif;/* set the font here */
+text-align: center;/* set the text alignment here */
+font-weight: 900;
+
+
+}
+
+footer {
+margin-top: 2rem;
+margin-bottom: 2 rem;
+
+}
+
+h1{
+  margin-bottom: 0.5rem;
+  margin-top: 3rem;
+  color: #F8F8F8;
+}
+
+h2{
+/* set the text color of to #075AAB here */
+/* set both the bottom margin and top margin to 2.5rem here */
+text-decoration: underline;
+margin-bottom: 2.5rem;
+margin-top: 2.5rem;
+color:#F5F5F5;
+
+}
+
+h3{
+  color: 	#F0F0F0;
+margin-bottom: 0;
+margin-top: 2rem;
+}
+
+h4{
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+
+}
+
+h5{
+  color: #3B3131;
+margin-top: 0.5rem;
+
+}
+
+hr{
+
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+
+}
+
+/* this controls how the bullet points in the resume page looks */
+
+u1{
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
